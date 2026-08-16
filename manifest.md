@@ -1,5 +1,5 @@
 ---
-methodVersion: 1.0.0
+methodVersion: 0.9.0
 namespace: authoring
 profile: standard
 packs: [foundation]
